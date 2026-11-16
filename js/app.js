@@ -21,7 +21,7 @@ var CONFIG={
       '1 mes de GTA+ (digital)',
       'Precarga digital desde el 12 de nov de 2026']}
   ],
-  tarjetaNombre:'Mauro Lamas',tarjetaUltimos:'4137',
+  tarjetaNombre:'Mauro Lamas',tarjetaUltimos:'4138',
   procesoMs:3500,
   pagoAutomatico:false
 };
