@@ -1,7 +1,0 @@
-Archivos que podés poner acá (nombres exactos, todo en minúsculas):
-- fondo.jpg: fondo de toda la página (horizontal, 1920x1080 o más).
-- banner.jpg: imagen grande de arriba en la ventana de elegir edición (horizontal, ej. 1200x300).
-- standard.jpg: imagen de la Edición Standard (ej. 600x300).
-- ultimate.jpg: imagen de la Edición Ultimate (ej. 600x300).
-- miniatura.jpg: miniatura del juego en la ventana de compra (cuadrada, ej. 400x400).
-Si falta alguna, se usan los colores por defecto.
